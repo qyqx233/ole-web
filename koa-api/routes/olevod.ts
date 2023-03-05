@@ -1,5 +1,5 @@
 import koaRouter from 'koa-router'
-import Olevod from '../../olevod-api'
+import Olevod from '../../ole-api'
 const router = new koaRouter()
 
 router.prefix('/olevod')
